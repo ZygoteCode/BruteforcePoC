@@ -12,7 +12,7 @@ public class Program
 
     public static void Main()
     {
-        Console.Title = "BruteforcePoC | Made by https://github.com/GabryB03/";
+        Console.Title = "BruteforcePoC | Made by https://github.com/ZygoteCode/";
 
         long totalMethod1 = 0, totalMethod2 = 0, totalMethod3 = 0, totalMethod4 = 0;
         long minMethod1 = long.MaxValue, minMethod2 = long.MaxValue, minMethod3 = long.MaxValue, minMethod4 = long.MaxValue;
